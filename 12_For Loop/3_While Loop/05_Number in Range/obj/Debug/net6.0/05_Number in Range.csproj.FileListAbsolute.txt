@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\bin\Debug\net6.0\05_Number in Range.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\bin\Debug\net6.0\05_Number in Range.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\bin\Debug\net6.0\05_Number in Range.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\bin\Debug\net6.0\05_Number in Range.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\bin\Debug\net6.0\05_Number in Range.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\refint\05_Number in Range.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\05_Number in Range.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\05_Number in Range\obj\Debug\net6.0\ref\05_Number in Range.dll

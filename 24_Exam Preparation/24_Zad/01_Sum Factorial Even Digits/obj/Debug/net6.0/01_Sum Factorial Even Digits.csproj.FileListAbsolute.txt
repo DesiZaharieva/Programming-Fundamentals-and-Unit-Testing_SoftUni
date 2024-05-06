@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\bin\Debug\net6.0\01_Sum Factorial Even Digits.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\bin\Debug\net6.0\01_Sum Factorial Even Digits.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\bin\Debug\net6.0\01_Sum Factorial Even Digits.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\bin\Debug\net6.0\01_Sum Factorial Even Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\bin\Debug\net6.0\01_Sum Factorial Even Digits.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\refint\01_Sum Factorial Even Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\01_Sum Factorial Even Digits.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\24_Exam Preparation\24_Zad\01_Sum Factorial Even Digits\obj\Debug\net6.0\ref\01_Sum Factorial Even Digits.dll

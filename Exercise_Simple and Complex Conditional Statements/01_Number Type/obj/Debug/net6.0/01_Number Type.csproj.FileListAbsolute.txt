@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\bin\Debug\net6.0\01_Number Type.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\bin\Debug\net6.0\01_Number Type.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\bin\Debug\net6.0\01_Number Type.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\bin\Debug\net6.0\01_Number Type.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\bin\Debug\net6.0\01_Number Type.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\refint\01_Number Type.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\01_Number Type.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\01_Number Type\obj\Debug\net6.0\ref\01_Number Type.dll

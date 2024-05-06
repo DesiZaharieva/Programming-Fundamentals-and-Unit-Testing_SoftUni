@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\bin\Debug\net6.0\07_Latin Letters.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\bin\Debug\net6.0\07_Latin Letters.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\bin\Debug\net6.0\07_Latin Letters.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\bin\Debug\net6.0\07_Latin Letters.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\bin\Debug\net6.0\07_Latin Letters.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\refint\07_Latin Letters.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\07_Latin Letters.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\07_Latin Letters\obj\Debug\net6.0\ref\07_Latin Letters.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\bin\Debug\net6.0\4_Train the Trainers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\bin\Debug\net6.0\4_Train the Trainers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\bin\Debug\net6.0\4_Train the Trainers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\bin\Debug\net6.0\4_Train the Trainers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\bin\Debug\net6.0\4_Train the Trainers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\refint\4_Train the Trainers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\4_Train the Trainers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\4_Train the Trainers\obj\Debug\net6.0\ref\4_Train the Trainers.dll

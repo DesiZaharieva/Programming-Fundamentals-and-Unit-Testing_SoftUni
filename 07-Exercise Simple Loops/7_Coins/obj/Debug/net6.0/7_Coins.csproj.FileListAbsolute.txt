@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\bin\Debug\net6.0\7_Coins.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\bin\Debug\net6.0\7_Coins.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\bin\Debug\net6.0\7_Coins.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\bin\Debug\net6.0\7_Coins.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\bin\Debug\net6.0\7_Coins.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\refint\7_Coins.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\7_Coins.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\7_Coins\obj\Debug\net6.0\ref\7_Coins.dll

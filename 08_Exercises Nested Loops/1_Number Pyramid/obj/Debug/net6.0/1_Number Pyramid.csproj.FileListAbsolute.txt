@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\bin\Debug\net6.0\1_Number Pyramid.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\bin\Debug\net6.0\1_Number Pyramid.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\bin\Debug\net6.0\1_Number Pyramid.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\bin\Debug\net6.0\1_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\bin\Debug\net6.0\1_Number Pyramid.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\refint\1_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\1_Number Pyramid.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\1_Number Pyramid\obj\Debug\net6.0\ref\1_Number Pyramid.dll

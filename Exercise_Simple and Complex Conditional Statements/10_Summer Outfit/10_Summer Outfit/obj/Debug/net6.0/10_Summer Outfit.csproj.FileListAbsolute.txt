@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\bin\Debug\net6.0\10_Summer Outfit.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\bin\Debug\net6.0\10_Summer Outfit.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\bin\Debug\net6.0\10_Summer Outfit.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\bin\Debug\net6.0\10_Summer Outfit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\bin\Debug\net6.0\10_Summer Outfit.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\refint\10_Summer Outfit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\10_Summer Outfit.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\10_Summer Outfit\10_Summer Outfit\obj\Debug\net6.0\ref\10_Summer Outfit.dll

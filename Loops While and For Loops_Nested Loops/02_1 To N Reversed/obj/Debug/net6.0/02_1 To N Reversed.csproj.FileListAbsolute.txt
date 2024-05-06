@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\bin\Debug\net6.0\02_1 To N Reversed.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\bin\Debug\net6.0\02_1 To N Reversed.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\bin\Debug\net6.0\02_1 To N Reversed.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\bin\Debug\net6.0\02_1 To N Reversed.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\bin\Debug\net6.0\02_1 To N Reversed.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\refint\02_1 To N Reversed.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\02_1 To N Reversed.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\02_1 To N Reversed\obj\Debug\net6.0\ref\02_1 To N Reversed.dll

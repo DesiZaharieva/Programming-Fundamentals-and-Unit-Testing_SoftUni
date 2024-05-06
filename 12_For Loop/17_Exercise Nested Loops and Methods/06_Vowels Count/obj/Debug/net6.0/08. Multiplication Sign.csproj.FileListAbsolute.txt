@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\bin\Debug\net6.0\08. Multiplication Sign.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\bin\Debug\net6.0\08. Multiplication Sign.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\bin\Debug\net6.0\08. Multiplication Sign.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\bin\Debug\net6.0\08. Multiplication Sign.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\bin\Debug\net6.0\08. Multiplication Sign.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\refint\08. Multiplication Sign.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\08. Multiplication Sign.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\06_Vowels Count\obj\Debug\net6.0\ref\08. Multiplication Sign.dll

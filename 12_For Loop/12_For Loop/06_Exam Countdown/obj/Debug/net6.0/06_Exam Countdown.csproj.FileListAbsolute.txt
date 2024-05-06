@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\bin\Debug\net6.0\06_Exam Countdown.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\bin\Debug\net6.0\06_Exam Countdown.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\bin\Debug\net6.0\06_Exam Countdown.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\bin\Debug\net6.0\06_Exam Countdown.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\bin\Debug\net6.0\06_Exam Countdown.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\refint\06_Exam Countdown.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\06_Exam Countdown.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\12_For Loop\06_Exam Countdown\obj\Debug\net6.0\ref\06_Exam Countdown.dll

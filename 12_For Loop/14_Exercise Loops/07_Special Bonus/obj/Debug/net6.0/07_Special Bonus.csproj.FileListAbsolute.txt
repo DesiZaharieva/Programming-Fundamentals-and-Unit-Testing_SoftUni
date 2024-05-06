@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\bin\Debug\net6.0\07_Special Bonus.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\bin\Debug\net6.0\07_Special Bonus.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\bin\Debug\net6.0\07_Special Bonus.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\bin\Debug\net6.0\07_Special Bonus.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\bin\Debug\net6.0\07_Special Bonus.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\refint\07_Special Bonus.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\07_Special Bonus.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\07_Special Bonus\obj\Debug\net6.0\ref\07_Special Bonus.dll

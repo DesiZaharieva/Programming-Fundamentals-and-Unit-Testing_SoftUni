@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\bin\Debug\net6.0\01_Cinema.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\bin\Debug\net6.0\01_Cinema.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\bin\Debug\net6.0\01_Cinema.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\bin\Debug\net6.0\01_Cinema.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\bin\Debug\net6.0\01_Cinema.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\refint\01_Cinema.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\01_Cinema.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\01_Cinema\obj\Debug\net6.0\ref\01_Cinema.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\bin\Debug\net6.0\06_Math Power.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\bin\Debug\net6.0\06_Math Power.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\bin\Debug\net6.0\06_Math Power.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\bin\Debug\net6.0\06_Math Power.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\bin\Debug\net6.0\06_Math Power.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\refint\06_Math Power.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\06_Math Power.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\06_Math Power\obj\Debug\net6.0\ref\06_Math Power.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\bin\Debug\net6.0\04_Mandatory Literature.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\bin\Debug\net6.0\04_Mandatory Literature.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\bin\Debug\net6.0\04_Mandatory Literature.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\bin\Debug\net6.0\04_Mandatory Literature.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\bin\Debug\net6.0\04_Mandatory Literature.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\refint\04_Mandatory Literature.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\04_Mandatory Literature.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\04_Mandatory Literature\obj\Debug\net6.0\ref\04_Mandatory Literature.dll

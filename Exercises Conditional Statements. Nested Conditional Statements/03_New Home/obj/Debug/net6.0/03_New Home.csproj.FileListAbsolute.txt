@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\bin\Debug\net6.0\03_New Home.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\bin\Debug\net6.0\03_New Home.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\bin\Debug\net6.0\03_New Home.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\bin\Debug\net6.0\03_New Home.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\bin\Debug\net6.0\03_New Home.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\refint\03_New Home.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\03_New Home.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\03_New Home\obj\Debug\net6.0\ref\03_New Home.dll

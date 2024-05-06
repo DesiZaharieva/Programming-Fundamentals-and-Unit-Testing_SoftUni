@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\bin\Debug\net6.0\05_List Manipulation Advanced.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\bin\Debug\net6.0\05_List Manipulation Advanced.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\bin\Debug\net6.0\05_List Manipulation Advanced.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\bin\Debug\net6.0\05_List Manipulation Advanced.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\bin\Debug\net6.0\05_List Manipulation Advanced.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\refint\05_List Manipulation Advanced.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\05_List Manipulation Advanced.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\05_List Manipulation Advanced\obj\Debug\net6.0\ref\05_List Manipulation Advanced.dll

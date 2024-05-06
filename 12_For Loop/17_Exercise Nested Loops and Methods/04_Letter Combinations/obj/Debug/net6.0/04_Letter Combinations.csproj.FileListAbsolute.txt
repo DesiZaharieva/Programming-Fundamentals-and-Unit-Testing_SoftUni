@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\bin\Debug\net6.0\04_Letter Combinations.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\bin\Debug\net6.0\04_Letter Combinations.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\bin\Debug\net6.0\04_Letter Combinations.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\bin\Debug\net6.0\04_Letter Combinations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\bin\Debug\net6.0\04_Letter Combinations.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\refint\04_Letter Combinations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\04_Letter Combinations.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\04_Letter Combinations\obj\Debug\net6.0\ref\04_Letter Combinations.dll

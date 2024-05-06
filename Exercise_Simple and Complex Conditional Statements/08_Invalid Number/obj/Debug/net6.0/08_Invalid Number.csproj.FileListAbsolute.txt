@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\bin\Debug\net6.0\08_Invalid Number.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\bin\Debug\net6.0\08_Invalid Number.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\bin\Debug\net6.0\08_Invalid Number.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\bin\Debug\net6.0\08_Invalid Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\bin\Debug\net6.0\08_Invalid Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\refint\08_Invalid Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\08_Invalid Number.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\08_Invalid Number\obj\Debug\net6.0\ref\08_Invalid Number.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\bin\Debug\net6.0\7_Speed Info.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\bin\Debug\net6.0\7_Speed Info.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\bin\Debug\net6.0\7_Speed Info.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\bin\Debug\net6.0\7_Speed Info.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\bin\Debug\net6.0\7_Speed Info.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\refint\7_Speed Info.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\7_Speed Info.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\7_Speed Info\obj\Debug\net6.0\ref\7_Speed Info.dll

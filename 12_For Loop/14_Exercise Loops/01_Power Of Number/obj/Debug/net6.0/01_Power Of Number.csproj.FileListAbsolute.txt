@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\bin\Debug\net6.0\01_Power Of Number.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\bin\Debug\net6.0\01_Power Of Number.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\bin\Debug\net6.0\01_Power Of Number.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\bin\Debug\net6.0\01_Power Of Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\bin\Debug\net6.0\01_Power Of Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\refint\01_Power Of Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\01_Power Of Number.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\01_Power Of Number\obj\Debug\net6.0\ref\01_Power Of Number.dll

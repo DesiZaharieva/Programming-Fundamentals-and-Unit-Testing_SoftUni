@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\bin\Debug\net6.0\03_Printing Triangle.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\bin\Debug\net6.0\03_Printing Triangle.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\bin\Debug\net6.0\03_Printing Triangle.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\bin\Debug\net6.0\03_Printing Triangle.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\bin\Debug\net6.0\03_Printing Triangle.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\refint\03_Printing Triangle.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\03_Printing Triangle.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\03_Printing Triangle\obj\Debug\net6.0\ref\03_Printing Triangle.dll

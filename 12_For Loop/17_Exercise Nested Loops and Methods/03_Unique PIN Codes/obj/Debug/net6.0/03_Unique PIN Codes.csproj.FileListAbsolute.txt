@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\bin\Debug\net6.0\03_Unique PIN Codes.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\bin\Debug\net6.0\03_Unique PIN Codes.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\bin\Debug\net6.0\03_Unique PIN Codes.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\bin\Debug\net6.0\03_Unique PIN Codes.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\bin\Debug\net6.0\03_Unique PIN Codes.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\refint\03_Unique PIN Codes.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\03_Unique PIN Codes.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\03_Unique PIN Codes\obj\Debug\net6.0\ref\03_Unique PIN Codes.dll

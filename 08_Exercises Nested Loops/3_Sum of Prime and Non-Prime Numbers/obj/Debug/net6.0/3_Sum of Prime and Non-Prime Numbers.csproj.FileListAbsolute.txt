@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\refint\3_Sum of Prime and Non-Prime Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\3_Sum of Prime and Non-Prime Numbers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\3_Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\ref\3_Sum of Prime and Non-Prime Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\bin\Debug\net6.0\05_Fruit or Vegetable.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\bin\Debug\net6.0\05_Fruit or Vegetable.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\bin\Debug\net6.0\05_Fruit or Vegetable.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\bin\Debug\net6.0\05_Fruit or Vegetable.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\bin\Debug\net6.0\05_Fruit or Vegetable.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\refint\05_Fruit or Vegetable.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\05_Fruit or Vegetable.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\5_Fruit or Vegetable\obj\Debug\net6.0\ref\05_Fruit or Vegetable.dll

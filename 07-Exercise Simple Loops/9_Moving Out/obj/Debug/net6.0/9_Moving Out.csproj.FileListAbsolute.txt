@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\bin\Debug\net6.0\9_Moving Out.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\bin\Debug\net6.0\9_Moving Out.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\bin\Debug\net6.0\9_Moving Out.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\bin\Debug\net6.0\9_Moving Out.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\bin\Debug\net6.0\9_Moving Out.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\refint\9_Moving Out.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\9_Moving Out.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\9_Moving Out\obj\Debug\net6.0\ref\9_Moving Out.dll

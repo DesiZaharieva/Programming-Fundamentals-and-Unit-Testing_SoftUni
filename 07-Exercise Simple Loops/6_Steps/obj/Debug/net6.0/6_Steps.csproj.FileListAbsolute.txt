@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\bin\Debug\net6.0\6_Steps.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\bin\Debug\net6.0\6_Steps.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\bin\Debug\net6.0\6_Steps.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\bin\Debug\net6.0\6_Steps.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\bin\Debug\net6.0\6_Steps.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\refint\6_Steps.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\6_Steps.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\6_Steps\obj\Debug\net6.0\ref\6_Steps.dll

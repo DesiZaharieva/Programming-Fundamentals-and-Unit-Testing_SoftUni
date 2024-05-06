@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\bin\Debug\net6.0\15_Lab Nested Loops.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\bin\Debug\net6.0\15_Lab Nested Loops.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\bin\Debug\net6.0\15_Lab Nested Loops.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\bin\Debug\net6.0\15_Lab Nested Loops.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\bin\Debug\net6.0\15_Lab Nested Loops.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\refint\15_Lab Nested Loops.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\15_Lab Nested Loops.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\15_Lab Nested Loops\obj\Debug\net6.0\ref\15_Lab Nested Loops.dll

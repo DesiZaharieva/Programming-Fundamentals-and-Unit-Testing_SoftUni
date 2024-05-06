@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\bin\Debug\net6.0\03_Old books.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\bin\Debug\net6.0\03_Old books.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\bin\Debug\net6.0\03_Old books.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\bin\Debug\net6.0\03_Old books.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\bin\Debug\net6.0\03_Old books.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\refint\03_Old books.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\03_Old books.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\03_Old books\obj\Debug\net6.0\ref\03_Old books.dll

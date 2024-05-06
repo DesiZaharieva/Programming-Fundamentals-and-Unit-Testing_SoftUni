@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\bin\Debug\net6.0\08_Array Rotation.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\bin\Debug\net6.0\08_Array Rotation.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\bin\Debug\net6.0\08_Array Rotation.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\bin\Debug\net6.0\08_Array Rotation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\bin\Debug\net6.0\08_Array Rotation.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\refint\08_Array Rotation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\08_Array Rotation.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\08_Array Rotation\obj\Debug\net6.0\ref\08_Array Rotation.dll

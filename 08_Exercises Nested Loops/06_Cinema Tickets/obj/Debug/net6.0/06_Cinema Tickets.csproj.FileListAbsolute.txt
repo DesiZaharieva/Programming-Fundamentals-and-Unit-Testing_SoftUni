@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\bin\Debug\net6.0\06_Cinema Tickets.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\bin\Debug\net6.0\06_Cinema Tickets.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\bin\Debug\net6.0\06_Cinema Tickets.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\bin\Debug\net6.0\06_Cinema Tickets.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\bin\Debug\net6.0\06_Cinema Tickets.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\refint\06_Cinema Tickets.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\06_Cinema Tickets.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\08_Exercises Nested Loops\06_Cinema Tickets\obj\Debug\net6.0\ref\06_Cinema Tickets.dll

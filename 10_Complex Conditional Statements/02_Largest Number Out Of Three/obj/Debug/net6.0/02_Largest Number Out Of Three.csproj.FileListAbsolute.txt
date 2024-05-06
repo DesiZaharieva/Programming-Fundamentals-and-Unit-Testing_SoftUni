@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\bin\Debug\net6.0\02_Largest Number Out Of Three.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\bin\Debug\net6.0\02_Largest Number Out Of Three.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\bin\Debug\net6.0\02_Largest Number Out Of Three.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\bin\Debug\net6.0\02_Largest Number Out Of Three.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\bin\Debug\net6.0\02_Largest Number Out Of Three.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\refint\02_Largest Number Out Of Three.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\02_Largest Number Out Of Three.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\02_Largest Number Out Of Three\obj\Debug\net6.0\ref\02_Largest Number Out Of Three.dll

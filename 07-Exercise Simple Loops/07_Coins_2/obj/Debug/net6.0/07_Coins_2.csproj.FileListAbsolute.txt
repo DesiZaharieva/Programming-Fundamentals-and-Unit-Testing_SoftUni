@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\bin\Debug\net6.0\07_Coins_2.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\bin\Debug\net6.0\07_Coins_2.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\bin\Debug\net6.0\07_Coins_2.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\bin\Debug\net6.0\07_Coins_2.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\bin\Debug\net6.0\07_Coins_2.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\refint\07_Coins_2.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\07_Coins_2.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\07_Coins_2\obj\Debug\net6.0\ref\07_Coins_2.dll

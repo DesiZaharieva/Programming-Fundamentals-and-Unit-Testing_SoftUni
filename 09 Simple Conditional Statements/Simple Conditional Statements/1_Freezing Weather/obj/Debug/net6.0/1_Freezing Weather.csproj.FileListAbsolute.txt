@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\bin\Debug\net6.0\1_Freezing Weather.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\bin\Debug\net6.0\1_Freezing Weather.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\bin\Debug\net6.0\1_Freezing Weather.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\bin\Debug\net6.0\1_Freezing Weather.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\bin\Debug\net6.0\1_Freezing Weather.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\refint\1_Freezing Weather.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\1_Freezing Weather.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\1_Freezing Weather\obj\Debug\net6.0\ref\1_Freezing Weather.dll

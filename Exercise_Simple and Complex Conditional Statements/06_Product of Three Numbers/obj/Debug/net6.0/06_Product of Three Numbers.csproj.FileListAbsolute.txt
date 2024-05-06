@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\bin\Debug\net6.0\06_Product of Three Numbers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\bin\Debug\net6.0\06_Product of Three Numbers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\bin\Debug\net6.0\06_Product of Three Numbers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\bin\Debug\net6.0\06_Product of Three Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\bin\Debug\net6.0\06_Product of Three Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\refint\06_Product of Three Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\06_Product of Three Numbers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\06_Product of Three Numbers\obj\Debug\net6.0\ref\06_Product of Three Numbers.dll

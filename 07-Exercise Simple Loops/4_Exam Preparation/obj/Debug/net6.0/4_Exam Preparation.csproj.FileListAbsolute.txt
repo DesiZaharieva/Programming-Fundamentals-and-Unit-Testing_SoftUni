@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\bin\Debug\net6.0\4_Exam Preparation.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\bin\Debug\net6.0\4_Exam Preparation.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\bin\Debug\net6.0\4_Exam Preparation.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\bin\Debug\net6.0\4_Exam Preparation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\bin\Debug\net6.0\4_Exam Preparation.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\refint\4_Exam Preparation.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\4_Exam Preparation.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\4_Exam Preparation\obj\Debug\net6.0\ref\4_Exam Preparation.dll

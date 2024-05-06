@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\bin\Debug\net6.0\11_Coffee Shop.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\bin\Debug\net6.0\11_Coffee Shop.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\bin\Debug\net6.0\11_Coffee Shop.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\bin\Debug\net6.0\11_Coffee Shop.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\bin\Debug\net6.0\11_Coffee Shop.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\refint\11_Coffee Shop.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\11_Coffee Shop.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\11_Coffee Shop\obj\Debug\net6.0\ref\11_Coffee Shop.dll

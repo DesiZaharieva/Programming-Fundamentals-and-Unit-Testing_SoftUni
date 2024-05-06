@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\bin\Debug\net6.0\8_Birthday Cake.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\bin\Debug\net6.0\8_Birthday Cake.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\bin\Debug\net6.0\8_Birthday Cake.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\bin\Debug\net6.0\8_Birthday Cake.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\bin\Debug\net6.0\8_Birthday Cake.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\refint\8_Birthday Cake.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\8_Birthday Cake.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\8_Birthday Cake\obj\Debug\net6.0\ref\8_Birthday Cake.dll

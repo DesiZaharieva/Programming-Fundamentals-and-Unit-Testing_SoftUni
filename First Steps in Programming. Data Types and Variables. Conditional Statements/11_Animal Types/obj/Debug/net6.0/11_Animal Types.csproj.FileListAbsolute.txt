@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\bin\Debug\net6.0\11_Animal Types.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\bin\Debug\net6.0\11_Animal Types.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\bin\Debug\net6.0\11_Animal Types.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\bin\Debug\net6.0\11_Animal Types.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\bin\Debug\net6.0\11_Animal Types.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\refint\11_Animal Types.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\11_Animal Types.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\11_Animal Types\obj\Debug\net6.0\ref\11_Animal Types.dll

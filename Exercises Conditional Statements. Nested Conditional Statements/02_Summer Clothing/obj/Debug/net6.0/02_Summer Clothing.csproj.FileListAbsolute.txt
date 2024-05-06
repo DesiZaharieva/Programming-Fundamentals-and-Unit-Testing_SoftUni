@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\bin\Debug\net6.0\02_Summer Clothing.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\bin\Debug\net6.0\02_Summer Clothing.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\bin\Debug\net6.0\02_Summer Clothing.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\bin\Debug\net6.0\02_Summer Clothing.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\bin\Debug\net6.0\02_Summer Clothing.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\refint\02_Summer Clothing.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\02_Summer Clothing.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\02_Summer Clothing\obj\Debug\net6.0\ref\02_Summer Clothing.dll

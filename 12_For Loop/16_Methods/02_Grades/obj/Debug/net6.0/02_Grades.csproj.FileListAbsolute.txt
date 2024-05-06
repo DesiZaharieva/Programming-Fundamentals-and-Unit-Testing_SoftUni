@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\bin\Debug\net6.0\02_Grades.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\bin\Debug\net6.0\02_Grades.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\bin\Debug\net6.0\02_Grades.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\bin\Debug\net6.0\02_Grades.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\bin\Debug\net6.0\02_Grades.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\refint\02_Grades.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\02_Grades.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\16_Methods\02_Grades\obj\Debug\net6.0\ref\02_Grades.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\bin\Debug\net6.0\08_Sorted Numbers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\bin\Debug\net6.0\08_Sorted Numbers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\bin\Debug\net6.0\08_Sorted Numbers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\bin\Debug\net6.0\08_Sorted Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\bin\Debug\net6.0\08_Sorted Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\refint\08_Sorted Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\08_Sorted Numbers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\08_Sorted Numbers\obj\Debug\net6.0\ref\08_Sorted Numbers.dll

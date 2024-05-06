@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\bin\Debug\net6.0\10_Complex Conditional Statements.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\bin\Debug\net6.0\10_Complex Conditional Statements.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\bin\Debug\net6.0\10_Complex Conditional Statements.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\bin\Debug\net6.0\10_Complex Conditional Statements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\bin\Debug\net6.0\10_Complex Conditional Statements.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\refint\10_Complex Conditional Statements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\10_Complex Conditional Statements.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\10_Complex Conditional Statements\10_Complex Conditional Statements\obj\Debug\net6.0\ref\10_Complex Conditional Statements.dll

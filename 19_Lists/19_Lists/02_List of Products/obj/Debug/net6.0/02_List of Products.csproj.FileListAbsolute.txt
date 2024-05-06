@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\bin\Debug\net6.0\02_List of Products.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\bin\Debug\net6.0\02_List of Products.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\bin\Debug\net6.0\02_List of Products.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\bin\Debug\net6.0\02_List of Products.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\bin\Debug\net6.0\02_List of Products.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\refint\02_List of Products.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\02_List of Products.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\02_List of Products\obj\Debug\net6.0\ref\02_List of Products.dll

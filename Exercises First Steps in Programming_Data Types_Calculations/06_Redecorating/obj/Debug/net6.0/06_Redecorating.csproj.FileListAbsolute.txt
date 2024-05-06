@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\bin\Debug\net6.0\06_Redecorating.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\bin\Debug\net6.0\06_Redecorating.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\bin\Debug\net6.0\06_Redecorating.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\bin\Debug\net6.0\06_Redecorating.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\bin\Debug\net6.0\06_Redecorating.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\refint\06_Redecorating.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\06_Redecorating.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\06_Redecorating\obj\Debug\net6.0\ref\06_Redecorating.dll

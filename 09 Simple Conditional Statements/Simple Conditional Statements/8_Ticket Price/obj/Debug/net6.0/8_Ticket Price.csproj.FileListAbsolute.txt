@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\bin\Debug\net6.0\8_Ticket Price.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\bin\Debug\net6.0\8_Ticket Price.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\bin\Debug\net6.0\8_Ticket Price.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\bin\Debug\net6.0\8_Ticket Price.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\bin\Debug\net6.0\8_Ticket Price.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\refint\8_Ticket Price.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\8_Ticket Price.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\8_Ticket Price\obj\Debug\net6.0\ref\8_Ticket Price.dll

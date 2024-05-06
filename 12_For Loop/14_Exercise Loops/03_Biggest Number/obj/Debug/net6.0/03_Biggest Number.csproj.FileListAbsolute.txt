@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\bin\Debug\net6.0\03_Biggest Number.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\bin\Debug\net6.0\03_Biggest Number.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\bin\Debug\net6.0\03_Biggest Number.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\bin\Debug\net6.0\03_Biggest Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\bin\Debug\net6.0\03_Biggest Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\refint\03_Biggest Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\03_Biggest Number.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\03_Biggest Number\obj\Debug\net6.0\ref\03_Biggest Number.dll

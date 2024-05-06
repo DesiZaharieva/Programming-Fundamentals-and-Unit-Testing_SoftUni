@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\bin\Debug\net6.0\02_Odd Number.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\bin\Debug\net6.0\02_Odd Number.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\bin\Debug\net6.0\02_Odd Number.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\bin\Debug\net6.0\02_Odd Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\bin\Debug\net6.0\02_Odd Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\refint\02_Odd Number.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\02_Odd Number.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\02_Odd Number\obj\Debug\net6.0\ref\02_Odd Number.dll

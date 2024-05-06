@@ -1,0 +1,5 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\09_Smallest_Number\obj\Debug\net6.0\09_Smallest_Number.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\09_Smallest_Number\obj\Debug\net6.0\09_Smallest_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\09_Smallest_Number\obj\Debug\net6.0\09_Smallest_Number.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\09_Smallest_Number\obj\Debug\net6.0\09_Smallest_Number.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\09_Smallest_Number\obj\Debug\net6.0\09_Smallest_Number.csproj.CoreCompileInputs.cache

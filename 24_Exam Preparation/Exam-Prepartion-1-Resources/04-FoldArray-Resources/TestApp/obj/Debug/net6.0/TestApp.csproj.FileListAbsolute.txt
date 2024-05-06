@@ -1,0 +1,12 @@
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Za Podgotovka\04-FoldArray-Resources\04-FoldArray-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

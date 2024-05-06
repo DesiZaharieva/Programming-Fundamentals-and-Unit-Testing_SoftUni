@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\bin\Debug\net6.0\04_Building.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\bin\Debug\net6.0\04_Building.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\bin\Debug\net6.0\04_Building.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\bin\Debug\net6.0\04_Building.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\bin\Debug\net6.0\04_Building.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\refint\04_Building.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\04_Building.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\04_Building\obj\Debug\net6.0\ref\04_Building.dll

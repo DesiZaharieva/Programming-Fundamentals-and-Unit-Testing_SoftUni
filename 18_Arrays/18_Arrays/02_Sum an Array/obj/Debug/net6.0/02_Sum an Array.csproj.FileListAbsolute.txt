@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\bin\Debug\net6.0\02_Sum an Array.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\bin\Debug\net6.0\02_Sum an Array.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\bin\Debug\net6.0\02_Sum an Array.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\bin\Debug\net6.0\02_Sum an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\bin\Debug\net6.0\02_Sum an Array.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\refint\02_Sum an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\02_Sum an Array.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\02_Sum an Array\obj\Debug\net6.0\ref\02_Sum an Array.dll

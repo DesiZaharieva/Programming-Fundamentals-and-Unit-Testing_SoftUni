@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\bin\Debug\net6.0\5_Vacation Savings.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\bin\Debug\net6.0\5_Vacation Savings.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\bin\Debug\net6.0\5_Vacation Savings.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\bin\Debug\net6.0\5_Vacation Savings.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\bin\Debug\net6.0\5_Vacation Savings.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\refint\5_Vacation Savings.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\5_Vacation Savings.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\07-Exercise Simple Loops\5_Vacation Savings\obj\Debug\net6.0\ref\5_Vacation Savings.dll

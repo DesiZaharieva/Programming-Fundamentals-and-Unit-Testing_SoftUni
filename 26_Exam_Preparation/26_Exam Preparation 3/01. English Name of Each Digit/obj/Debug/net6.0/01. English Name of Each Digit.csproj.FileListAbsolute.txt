@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\refint\01. English Name of Each Digit.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\26_Exam_Preparation\26_Exam Preparation 3\01. English Name of Each Digit\obj\Debug\net6.0\ref\01. English Name of Each Digit.dll

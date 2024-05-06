@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\bin\Debug\net6.0\02_Magic Numbers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\bin\Debug\net6.0\02_Magic Numbers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\bin\Debug\net6.0\02_Magic Numbers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\bin\Debug\net6.0\02_Magic Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\bin\Debug\net6.0\02_Magic Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\refint\02_Magic Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\02_Magic Numbers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\02_Magic Numbers\obj\Debug\net6.0\ref\02_Magic Numbers.dll

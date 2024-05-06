@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\bin\Debug\net6.0\04_Number Operations.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\bin\Debug\net6.0\04_Number Operations.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\bin\Debug\net6.0\04_Number Operations.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\bin\Debug\net6.0\04_Number Operations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\bin\Debug\net6.0\04_Number Operations.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\refint\04_Number Operations.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\04_Number Operations.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercise_Simple and Complex Conditional Statements\04_Number Operations\obj\Debug\net6.0\ref\04_Number Operations.dll

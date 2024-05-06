@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\bin\Debug\net6.0\01_Numbers From 1 To N.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\bin\Debug\net6.0\01_Numbers From 1 To N.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\bin\Debug\net6.0\01_Numbers From 1 To N.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\bin\Debug\net6.0\01_Numbers From 1 To N.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\bin\Debug\net6.0\01_Numbers From 1 To N.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\refint\01_Numbers From 1 To N.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\01_Numbers From 1 To N.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\01_Numbers From 1 To N\obj\Debug\net6.0\ref\01_Numbers From 1 To N.dll

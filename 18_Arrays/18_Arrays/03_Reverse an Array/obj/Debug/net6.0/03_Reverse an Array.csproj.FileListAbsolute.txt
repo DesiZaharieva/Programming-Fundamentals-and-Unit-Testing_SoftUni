@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\bin\Debug\net6.0\03_Reverse an Array.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\bin\Debug\net6.0\03_Reverse an Array.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\bin\Debug\net6.0\03_Reverse an Array.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\bin\Debug\net6.0\03_Reverse an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\bin\Debug\net6.0\03_Reverse an Array.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\refint\03_Reverse an Array.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\03_Reverse an Array.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\03_Reverse an Array\obj\Debug\net6.0\ref\03_Reverse an Array.dll

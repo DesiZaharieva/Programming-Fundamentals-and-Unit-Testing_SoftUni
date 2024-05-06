@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Element That Equals to the Sum of Others", "02_Element That Equals to the Sum of Others.csproj", "{0FF9B492-DECD-4F37-91A9-4DBCE5FDB0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF9B492-DECD-4F37-91A9-4DBCE5FDB0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF9B492-DECD-4F37-91A9-4DBCE5FDB0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF9B492-DECD-4F37-91A9-4DBCE5FDB0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF9B492-DECD-4F37-91A9-4DBCE5FDB0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197D8404-3DA8-48FA-8E52-5A5EBFDCD088}
+	EndGlobalSection
+EndGlobal

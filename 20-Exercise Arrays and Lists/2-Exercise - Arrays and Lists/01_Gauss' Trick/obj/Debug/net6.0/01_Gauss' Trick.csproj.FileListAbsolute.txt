@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\bin\Debug\net6.0\01_Gauss' Trick.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\bin\Debug\net6.0\01_Gauss' Trick.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\bin\Debug\net6.0\01_Gauss' Trick.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\bin\Debug\net6.0\01_Gauss' Trick.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\bin\Debug\net6.0\01_Gauss' Trick.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\refint\01_Gauss' Trick.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\01_Gauss' Trick.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\01_Gauss' Trick\obj\Debug\net6.0\ref\01_Gauss' Trick.dll

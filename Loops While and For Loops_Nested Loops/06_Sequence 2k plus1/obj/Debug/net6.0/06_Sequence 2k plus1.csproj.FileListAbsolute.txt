@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\bin\Debug\net6.0\06_Sequence 2k plus1.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\bin\Debug\net6.0\06_Sequence 2k plus1.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\bin\Debug\net6.0\06_Sequence 2k plus1.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\bin\Debug\net6.0\06_Sequence 2k plus1.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\bin\Debug\net6.0\06_Sequence 2k plus1.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\refint\06_Sequence 2k plus1.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\06_Sequence 2k plus1.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Loops While and For Loops_Nested Loops\06_Sequence 2k plus1\obj\Debug\net6.0\ref\06_Sequence 2k plus1.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Sum Factorial Even Digits", "01_Sum Factorial Even Digits.csproj", "{86CCC1D7-8DF5-43FC-A4EC-DA88E69A6C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CCC1D7-8DF5-43FC-A4EC-DA88E69A6C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CCC1D7-8DF5-43FC-A4EC-DA88E69A6C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CCC1D7-8DF5-43FC-A4EC-DA88E69A6C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CCC1D7-8DF5-43FC-A4EC-DA88E69A6C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCCFDDC-F032-4ADF-966A-9B2536B0888D}
+	EndGlobalSection
+EndGlobal

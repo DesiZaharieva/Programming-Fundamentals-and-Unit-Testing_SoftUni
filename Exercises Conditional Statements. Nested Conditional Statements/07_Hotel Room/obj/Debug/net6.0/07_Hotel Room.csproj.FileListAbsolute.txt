@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\bin\Debug\net6.0\07_Hotel Room.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\bin\Debug\net6.0\07_Hotel Room.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\bin\Debug\net6.0\07_Hotel Room.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\bin\Debug\net6.0\07_Hotel Room.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\bin\Debug\net6.0\07_Hotel Room.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\refint\07_Hotel Room.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\07_Hotel Room.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises Conditional Statements. Nested Conditional Statements\07_Hotel Room\obj\Debug\net6.0\ref\07_Hotel Room.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\bin\Debug\net6.0\01_Change List.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\bin\Debug\net6.0\01_Change List.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\bin\Debug\net6.0\01_Change List.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\bin\Debug\net6.0\01_Change List.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\bin\Debug\net6.0\01_Change List.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\refint\01_Change List.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\01_Change List.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\19_Lists\19_Lists\01_Change List\obj\Debug\net6.0\ref\01_Change List.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\bin\Debug\net6.0\05_Equal Arrays.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\bin\Debug\net6.0\05_Equal Arrays.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\bin\Debug\net6.0\05_Equal Arrays.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\bin\Debug\net6.0\05_Equal Arrays.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\bin\Debug\net6.0\05_Equal Arrays.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\refint\05_Equal Arrays.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\05_Equal Arrays.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\05_Equal Arrays\obj\Debug\net6.0\ref\05_Equal Arrays.dll

@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\refint\ConsoleAppMagic.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\ExampleTestingSetup\ConsoleAppMagic\obj\Debug\net6.0\ref\ConsoleAppMagic.dll

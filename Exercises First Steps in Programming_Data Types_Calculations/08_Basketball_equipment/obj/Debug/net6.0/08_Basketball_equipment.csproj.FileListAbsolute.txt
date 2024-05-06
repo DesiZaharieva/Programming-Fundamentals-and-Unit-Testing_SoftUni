@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\bin\Debug\net6.0\08_Basketball_equipment.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\bin\Debug\net6.0\08_Basketball_equipment.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\bin\Debug\net6.0\08_Basketball_equipment.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\bin\Debug\net6.0\08_Basketball_equipment.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\bin\Debug\net6.0\08_Basketball_equipment.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\refint\08_Basketball_equipment.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\08_Basketball_equipment.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\Exercises First Steps in Programming_Data Types_Calculations\08_Basketball_equipment\obj\Debug\net6.0\ref\08_Basketball_equipment.dll

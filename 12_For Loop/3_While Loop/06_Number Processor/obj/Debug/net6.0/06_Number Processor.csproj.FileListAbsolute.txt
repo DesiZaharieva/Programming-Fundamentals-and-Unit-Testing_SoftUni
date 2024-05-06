@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\bin\Debug\net6.0\06_Number Processor.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\bin\Debug\net6.0\06_Number Processor.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\bin\Debug\net6.0\06_Number Processor.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\bin\Debug\net6.0\06_Number Processor.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\bin\Debug\net6.0\06_Number Processor.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\refint\06_Number Processor.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\06_Number Processor.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\06_Number Processor\obj\Debug\net6.0\ref\06_Number Processor.dll

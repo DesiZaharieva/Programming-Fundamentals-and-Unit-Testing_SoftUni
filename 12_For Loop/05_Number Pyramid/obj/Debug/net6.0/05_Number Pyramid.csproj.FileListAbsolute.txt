@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\bin\Debug\net6.0\05_Number Pyramid.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\bin\Debug\net6.0\05_Number Pyramid.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\bin\Debug\net6.0\05_Number Pyramid.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\bin\Debug\net6.0\05_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\bin\Debug\net6.0\05_Number Pyramid.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\refint\05_Number Pyramid.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\05_Number Pyramid.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\05_Number Pyramid\obj\Debug\net6.0\ref\05_Number Pyramid.dll

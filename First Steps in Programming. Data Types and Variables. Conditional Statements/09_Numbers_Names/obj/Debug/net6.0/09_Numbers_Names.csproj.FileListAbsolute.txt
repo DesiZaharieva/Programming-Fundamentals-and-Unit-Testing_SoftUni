@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\bin\Debug\net6.0\09_Numbers_Names.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\bin\Debug\net6.0\09_Numbers_Names.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\bin\Debug\net6.0\09_Numbers_Names.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\bin\Debug\net6.0\09_Numbers_Names.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\bin\Debug\net6.0\09_Numbers_Names.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\refint\09_Numbers_Names.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\09_Numbers_Names.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\First Steps in Programming. Data Types and Variables. Conditional Statements\09_Numbers_Names\obj\Debug\net6.0\ref\09_Numbers_Names.dll

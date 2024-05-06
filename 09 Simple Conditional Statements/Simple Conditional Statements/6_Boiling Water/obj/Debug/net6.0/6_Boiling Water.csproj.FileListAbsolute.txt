@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\bin\Debug\net6.0\6_Boiling Water.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\bin\Debug\net6.0\6_Boiling Water.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\bin\Debug\net6.0\6_Boiling Water.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\bin\Debug\net6.0\6_Boiling Water.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\bin\Debug\net6.0\6_Boiling Water.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\refint\6_Boiling Water.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\6_Boiling Water.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\09 Simple Conditional Statements\Simple Conditional Statements\6_Boiling Water\obj\Debug\net6.0\ref\6_Boiling Water.dll

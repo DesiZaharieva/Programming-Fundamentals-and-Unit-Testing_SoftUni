@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\bin\Debug\net6.0\03_Triangle of Stars.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\bin\Debug\net6.0\03_Triangle of Stars.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\bin\Debug\net6.0\03_Triangle of Stars.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\bin\Debug\net6.0\03_Triangle of Stars.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\bin\Debug\net6.0\03_Triangle of Stars.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\refint\03_Triangle of Stars.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\03_Triangle of Stars.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\03_Triangle of Stars\obj\Debug\net6.0\ref\03_Triangle of Stars.dll

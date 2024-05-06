@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\bin\Debug\net6.0\06_Common Elements.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\bin\Debug\net6.0\06_Common Elements.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\bin\Debug\net6.0\06_Common Elements.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\bin\Debug\net6.0\06_Common Elements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\bin\Debug\net6.0\06_Common Elements.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\refint\06_Common Elements.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\06_Common Elements.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\18_Arrays\18_Arrays\06_Common Elements\obj\Debug\net6.0\ref\06_Common Elements.dll

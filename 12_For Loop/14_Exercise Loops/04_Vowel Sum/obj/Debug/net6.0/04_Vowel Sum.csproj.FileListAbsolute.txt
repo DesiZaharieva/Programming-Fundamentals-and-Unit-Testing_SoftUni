@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\bin\Debug\net6.0\04_Vowel Sum.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\bin\Debug\net6.0\04_Vowel Sum.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\bin\Debug\net6.0\04_Vowel Sum.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\bin\Debug\net6.0\04_Vowel Sum.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\bin\Debug\net6.0\04_Vowel Sum.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\refint\04_Vowel Sum.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\04_Vowel Sum.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\14_Exercise Loops\04_Vowel Sum\obj\Debug\net6.0\ref\04_Vowel Sum.dll

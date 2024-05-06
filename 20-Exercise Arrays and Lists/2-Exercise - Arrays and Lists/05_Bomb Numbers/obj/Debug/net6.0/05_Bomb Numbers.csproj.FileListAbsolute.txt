@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\bin\Debug\net6.0\05_Bomb Numbers.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\bin\Debug\net6.0\05_Bomb Numbers.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\bin\Debug\net6.0\05_Bomb Numbers.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\bin\Debug\net6.0\05_Bomb Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\bin\Debug\net6.0\05_Bomb Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\refint\05_Bomb Numbers.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\05_Bomb Numbers.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\20-Exercise Arrays and Lists\2-Exercise - Arrays and Lists\05_Bomb Numbers\obj\Debug\net6.0\ref\05_Bomb Numbers.dll

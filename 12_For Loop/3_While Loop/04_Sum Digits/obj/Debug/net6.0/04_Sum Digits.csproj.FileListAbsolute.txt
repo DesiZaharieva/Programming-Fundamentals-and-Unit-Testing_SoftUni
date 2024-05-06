@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\bin\Debug\net6.0\04_Sum Digits.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\bin\Debug\net6.0\04_Sum Digits.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\bin\Debug\net6.0\04_Sum Digits.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\bin\Debug\net6.0\04_Sum Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\bin\Debug\net6.0\04_Sum Digits.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\refint\04_Sum Digits.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\04_Sum Digits.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\3_While Loop\04_Sum Digits\obj\Debug\net6.0\ref\04_Sum Digits.dll

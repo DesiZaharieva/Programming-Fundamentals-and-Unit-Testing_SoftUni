@@ -1,0 +1,15 @@
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\bin\Debug\net6.0\07_Factorial Division.exe
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\bin\Debug\net6.0\07_Factorial Division.deps.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\bin\Debug\net6.0\07_Factorial Division.runtimeconfig.json
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\bin\Debug\net6.0\07_Factorial Division.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\bin\Debug\net6.0\07_Factorial Division.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.csproj.AssemblyReference.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.AssemblyInfo.cs
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\refint\07_Factorial Division.dll
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.pdb
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\07_Factorial Division.genruntimeconfig.cache
+C:\Users\Леново\Desktop\Programming Fundamentals and Unit Testing\12_For Loop\17_Exercise Nested Loops and Methods\07_Factorial Division\obj\Debug\net6.0\ref\07_Factorial Division.dll
